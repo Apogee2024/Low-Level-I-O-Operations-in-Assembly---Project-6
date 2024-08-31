@@ -1,5 +1,5 @@
 # Project 6 - Low-Level I/O Operations in Assembly
-
+See Proj6_bradsean.asm for code!
 ## Description
 The program prompts the user to input 10 signed decimal integers, verifies that each input is valid and fits within a 32-bit signed double word (SDWORD), and then stores the values in an array. It displays the running total of the numbers as they are entered, calculates the sum and average, and finally, displays all values entered along with the calculated sum and average. The program also includes custom macros and procedures for handling string input, number validation, and formatted output display.
 
